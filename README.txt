@@ -1,4 +1,3 @@
-개발자 티셔츤 쇼핑몰 오픈소스 짱
-
+샘플용 예제를 학습목적으로 (Git & Socket을 학습중...)
 
 Append to message on Linux...
